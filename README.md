@@ -4,5 +4,11 @@
 |----|---|-----|------|
 |**Radityatama Nugraha**|**312310644**|**I.23.1C**|**Automation System**|
 
-# Soal 1:
-![gambar](Ss_Manajemen_Basis_Data_Pertemuan7/ss1_pertemuan7.png)
+# Latihan Soal:
+![gambar](Ss_Automation_System_Pertemuan3/ss1-automation-system-pert-3.png)
+
+# Nilai_Mahasiswa.Txt:
+![gambar](Ss_Automation_System_Pertemuan3/ss2-automation-system-pert-3.png)
+
+# Tampilan Output Laporan Akademik Kelas:
+![gambar](Ss_Automation_System_Pertemuan3/ss3-automation-system-pert-3.png)
